@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "uEfCbybg31lOmt8LjefdTzUc+FyhS192p9DdxhJCXRn6GTIq69yBpr2CkKPJyodPlKVtIH3M0aOmjD0y+hw82Q==",
+  "success": true,
+  "projectFilePath": "/home/mahir/fet/fp/v5/DBStore/DBStore.fsproj",
+  "expectedPackageFiles": [
+    "/home/mahir/.nuget/packages/fsharp.core/7.0.401/fsharp.core.7.0.401.nupkg.sha512",
+    "/home/mahir/.nuget/packages/microsoft.data.sqlite/8.0.0/microsoft.data.sqlite.8.0.0.nupkg.sha512",
+    "/home/mahir/.nuget/packages/microsoft.data.sqlite.core/8.0.0/microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
+    "/home/mahir/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/mahir/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "/home/mahir/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/mahir/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/mahir/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+/home/mahir/fet/fp/v5/DBStore/bin/Debug/net7.0/DBStore.deps.json
+/home/mahir/fet/fp/v5/DBStore/bin/Debug/net7.0/DBStore.dll
+/home/mahir/fet/fp/v5/DBStore/bin/Debug/net7.0/DBStore.pdb
+/home/mahir/fet/fp/v5/DBStore/bin/Debug/net7.0/DBStore.xml
+/home/mahir/fet/fp/v5/DBStore/obj/Debug/net7.0/DBStore.fsproj.AssemblyReference.cache
+/home/mahir/fet/fp/v5/DBStore/obj/Debug/net7.0/DBStore.AssemblyInfoInputs.cache
+/home/mahir/fet/fp/v5/DBStore/obj/Debug/net7.0/DBStore.AssemblyInfo.fs
+/home/mahir/fet/fp/v5/DBStore/obj/Debug/net7.0/DBStore.fsproj.CoreCompileInputs.cache
+/home/mahir/fet/fp/v5/DBStore/obj/Debug/net7.0/DBStore.dll
+/home/mahir/fet/fp/v5/DBStore/obj/Debug/net7.0/refint/DBStore.dll
+/home/mahir/fet/fp/v5/DBStore/obj/Debug/net7.0/DBStore.xml
+/home/mahir/fet/fp/v5/DBStore/obj/Debug/net7.0/DBStore.pdb
+/home/mahir/fet/fp/v5/DBStore/obj/Debug/net7.0/ref/DBStore.dll

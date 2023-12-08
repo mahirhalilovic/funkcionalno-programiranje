@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ItemStore", "ItemStore\ItemStore.fsproj", "{EFE599AD-BE97-44FF-BB5D-799B16D72723}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DBStore", "DBStore\DBStore.fsproj", "{B5E131F3-91D2-45F6-A732-8F9FDFD4D2F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE599AD-BE97-44FF-BB5D-799B16D72723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE599AD-BE97-44FF-BB5D-799B16D72723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE599AD-BE97-44FF-BB5D-799B16D72723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE599AD-BE97-44FF-BB5D-799B16D72723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E131F3-91D2-45F6-A732-8F9FDFD4D2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E131F3-91D2-45F6-A732-8F9FDFD4D2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E131F3-91D2-45F6-A732-8F9FDFD4D2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E131F3-91D2-45F6-A732-8F9FDFD4D2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

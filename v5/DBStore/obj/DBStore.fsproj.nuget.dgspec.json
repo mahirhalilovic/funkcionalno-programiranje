@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mahir/fet/fp/v5/DBStore/DBStore.fsproj": {}
+  },
+  "projects": {
+    "/home/mahir/fet/fp/v5/DBStore/DBStore.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mahir/fet/fp/v5/DBStore/DBStore.fsproj",
+        "projectName": "DBStore",
+        "projectPath": "/home/mahir/fet/fp/v5/DBStore/DBStore.fsproj",
+        "packagesPath": "/home/mahir/.nuget/packages/",
+        "outputPath": "/home/mahir/fet/fp/v5/DBStore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mahir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/share/dotnet/sdk/7.0.403/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.401, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.Data.SQLite": {
+              "target": "Package",
+              "version": "[8.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
